@@ -1,0 +1,14 @@
+#                                                            Developed by Acemix
+#                                                        (Bilzox Studios @ (C) 2025)
+
+name: VenCupPoints
+version: '${project.version}'
+authors: [Acemix]
+
+api-version: '1.13'
+main: bilzox.acemix.studios.VenCupPoints
+description: 'Custom plugin for Events on VenCup'
+
+commands:
+  vencuppoints:
+    description: Main command
